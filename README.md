@@ -3,6 +3,10 @@ Using this package to archive the scripts needed to download multiple files at o
 
 ## Installation
 Deploy an Unbuntu instance and upload the source files into the root of the root you would like to import the video files.
+Run the Git command below to import the files.
+``` 
+git clone 
+```
 
 
 
